@@ -1,0 +1,21 @@
+h1
+{
+  text-align:center;
+  font-family: "Times New Roman", Times, serif;
+}
+h1.a
+{
+  font-size:150px;
+}
+h1.b
+{
+  font-size:100px;
+  background-color: rgb(255,188,17);
+  color: rgb(199,22,28);
+}
+h1.c
+{
+  font-size:75px;
+  font-family: "Arial", Arial, sans-serif;
+  font-style: italic;
+}
